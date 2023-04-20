@@ -23,6 +23,9 @@ Datasets provided by source material : @InProceedings{10.1007/978-3-030-79457-6_
 
 This data is heavily imbalanced towards 'clean' or inoffensive speech, but relatively balanced between the offensive and hate categories.
 
+![image](https://user-images.githubusercontent.com/122270915/233454994-4bae0c95-cf98-4643-96c0-d1d65aed1cc7.png)
+
+
 Cleaning Data
 First we remove any blank comments, then we convert the column names and we subtract each column by one to convert to boolean.
 
