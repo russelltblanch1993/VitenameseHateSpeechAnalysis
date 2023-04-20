@@ -38,6 +38,9 @@ Although we've been generously given a train and a test by the original research
 First Simple Model
 From inear regression we can conclude from this that there is an equal likelihood of the common words apppearing in either the offensive or hateful category.
 
+![image](https://user-images.githubusercontent.com/122270915/233463109-16aa72c7-3bcf-4994-b164-75dabeeec2f0.png)
+
+
 Baseline Model
 Here we use logistic regression to improve upon and further refine our initial linear regression by reducing it to a binary. We can conclude similarly to the above from this that the probability of a difference between hateful and non hateful offensive content is small enough as to be nonexistent.
 
