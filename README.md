@@ -48,3 +48,6 @@ Reccommendations
 With the above information, we can see that there is often little to distinguish offensive speech and hate speech. The strong correlation between offense and hatefulness would suggest offensive speech could be a precursor to hate speech. As such, systems administrators in either the public or private sector could benefit from flagging all sources of offensive tagged speech as potentially hateful and monitor the accounts making them more closely.
 
 Sources
+Original Study: https://github.com/sonlam1102/vihsd.git
+
+Vietnamese Consonants https://www.vietnamesepod101.com/lesson/pronunciation-1-the-pronunciation-of-consonants-in-vietnamese/
