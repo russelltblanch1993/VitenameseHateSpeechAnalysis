@@ -1,6 +1,9 @@
 Final Project: Analyzing Hate Speech
 For this project we will suppose the author is a data scientist working on behalf of a Vietnamese government stakeholder interested in curtailing online harassment. Follow along as we walk through the process of defining and isolating hate speech
 
+![image](https://user-images.githubusercontent.com/122270915/233463353-54b695ed-d6d7-4742-bde2-ba4d6bee74f3.png)
+
+
 Table of Contents
 1. Business Background
 2. Data Understanding
