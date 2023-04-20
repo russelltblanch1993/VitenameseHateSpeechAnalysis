@@ -1,6 +1,18 @@
 Final Project: Analyzing Hate Speech
 For this project we will suppose the author is a data scientist working on behalf of a Vietnamese government stakeholder interested in curtailing online harassment. Follow along as we walk through the process of defining and isolating hate speech
 
+Table of Contents
+1. Business Background
+2. Data Understanding
+3. Data Cleaning
+4. Preprocessing Data
+5. First Simple Model (linear regression)
+6. Baseline Model (logistic regression)
+7. Second Model (naive Bayes)
+8. Conclusion
+9. Reccomendation
+10. Sources
+
 Business Background
 The earliest use for what would eventualy become the internet was for the exchange of text and other messages. For nearly as long, a major problem in any virtual forum has been those who would rather harass and intimidate than communicate. As society and culture have been thrust more and more into these online public centers, the salience of this issue has only grown for stakeholders including the owners and operators of these public forums and the infastructure behind them, from the individual user to the highest levels of government. We aim to use the tools of analysis at our disposal to further define efforts agaisnt this maladaptive social behavior.
 
@@ -31,3 +43,8 @@ For our final model we are using a naive bayes model. Here we will set up baseli
 
 Model Comparison
 Overall our models returned extremely simlar results showing a negligible differnece between offensive speech and hate speech from the perspective of the measures undertaken here. As of this writing, the error due to the Vietnamese character read in detailed above makes exact valuation impossible until that is resolved.
+
+Reccommendations
+With the above information, we can see that there is often little to distinguish offensive speech and hate speech. The strong correlation between offense and hatefulness would suggest offensive speech could be a precursor to hate speech. As such, systems administrators in either the public or private sector could benefit from flagging all sources of offensive tagged speech as potentially hateful and monitor the accounts making them more closely.
+
+Sources
